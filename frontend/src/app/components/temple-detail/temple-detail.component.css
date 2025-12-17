@@ -1,0 +1,151 @@
+.temple-detail-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem 0;
+}
+
+.detail-header {
+  margin-bottom: 2rem;
+}
+
+.back-link {
+  display: inline-block;
+  color: var(--lds-green-30);
+  text-decoration: none;
+  margin-bottom: 1rem;
+  font-weight: 600;
+  transition: color 0.2s ease;
+}
+
+.back-link:hover {
+  color: var(--lds-green-20);
+}
+
+.detail-header h2 {
+  color: var(--lds-text-primary);
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  font-family: var(--font-serif);
+}
+
+.status-badge {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: white;
+}
+
+.status-operating {
+  background-color: var(--lds-green-30);
+}
+
+.status-renovation {
+  background-color: var(--lds-yellow-20);
+}
+
+.status-announced {
+  background-color: var(--lds-purple-30);
+}
+
+.status-construction {
+  background-color: var(--lds-blue-10);
+  color: var(--lds-gray-40);
+}
+
+.detail-content {
+  background: var(--lds-background);
+  border-radius: 0.5rem;
+  overflow: hidden;
+  border: 1px solid var(--lds-neutral-20);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.temple-image-large {
+  width: 100%;
+  height: 400px;
+  overflow: hidden;
+}
+
+.temple-image-large img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.temple-info {
+  padding: 2rem;
+}
+
+.info-item {
+  margin-bottom: 1.5rem;
+}
+
+.info-item h3 {
+  color: var(--lds-text-primary);
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+  font-family: var(--font-serif);
+}
+
+.info-item p {
+  color: var(--lds-text-secondary);
+  font-size: 1.1rem;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.btn {
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.btn-primary {
+  background-color: var(--lds-green-30);
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: var(--lds-green-20);
+}
+
+.btn-edit {
+  background-color: var(--lds-yellow-20);
+  color: white;
+}
+
+.btn-edit:hover {
+  background-color: var(--lds-yellow-30);
+}
+
+.btn-delete {
+  background-color: var(--lds-red-30);
+  color: white;
+}
+
+.btn-delete:hover {
+  background-color: var(--lds-red-20);
+}
+
+.loading,
+.error {
+  text-align: center;
+  padding: 3rem;
+  color: var(--lds-text-secondary);
+  font-size: 1.1rem;
+}
+
+.error {
+  color: var(--lds-red-30);
+}

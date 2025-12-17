@@ -1,0 +1,190 @@
+.temple-list-container {
+  padding: 2rem 0;
+}
+
+.header-section {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.header-section h2 {
+  color: var(--lds-text-primary);
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  color: var(--lds-text-secondary);
+  font-size: 1.1rem;
+}
+
+.filter-section {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.filter-btn {
+  padding: 0.75rem 1.5rem;
+  border: 2px solid var(--lds-neutral-20);
+  background-color: var(--lds-background);
+  color: var(--lds-text-primary);
+  border-radius: 0.25rem;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.filter-btn:hover {
+  border-color: var(--lds-green-30);
+  color: var(--lds-green-30);
+  background-color: var(--lds-neutral-10);
+}
+
+.filter-btn.active {
+  background-color: var(--lds-green-30);
+  color: white;
+  border-color: var(--lds-green-30);
+}
+
+.temples-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.temple-card {
+  background: var(--lds-background);
+  border-radius: 0.5rem;
+  overflow: hidden;
+  border: 1px solid var(--lds-neutral-20);
+  transition: all 0.2s;
+}
+
+.temple-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  border-color: var(--lds-green-30);
+}
+
+.temple-image {
+  position: relative;
+  height: 200px;
+  overflow: hidden;
+}
+
+.temple-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.status-badge {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  padding: 0.375rem 0.75rem;
+  border-radius: 0.375rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: white;
+}
+
+.status-operating {
+  background-color: var(--lds-green-30);
+}
+
+.status-renovation {
+  background-color: var(--lds-yellow-20);
+}
+
+.status-announced {
+  background-color: var(--lds-purple-30);
+}
+
+.status-construction {
+  background-color: var(--lds-blue-10);
+  color: var(--lds-gray-40);
+}
+
+.temple-content {
+  padding: 1.5rem;
+}
+
+.temple-content h3 {
+  color: var(--lds-text-primary);
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+  font-family: var(--font-serif);
+}
+
+.location {
+  color: var(--lds-text-secondary);
+  margin-bottom: 0.5rem;
+}
+
+.date {
+  color: var(--lds-gray-20);
+  font-size: 0.875rem;
+  margin-bottom: 1rem;
+}
+
+.temple-actions {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.btn {
+  padding: 0.5rem 1rem;
+  border-radius: 0.375rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.btn-view {
+  background-color: var(--lds-green-30);
+  color: white;
+}
+
+.btn-view:hover {
+  background-color: var(--lds-green-20);
+}
+
+.btn-edit {
+  background-color: var(--lds-yellow-20);
+  color: white;
+}
+
+.btn-edit:hover {
+  background-color: var(--lds-yellow-30);
+}
+
+.btn-delete {
+  background-color: var(--lds-red-30);
+  color: white;
+}
+
+.btn-delete:hover {
+  background-color: var(--lds-red-20);
+}
+
+.loading,
+.error,
+.no-results {
+  text-align: center;
+  padding: 3rem;
+  color: var(--lds-text-secondary);
+  font-size: 1.1rem;
+}
+
+.error {
+  color: var(--lds-red-30);
+}

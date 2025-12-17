@@ -1,0 +1,133 @@
+.form-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 0;
+}
+
+.form-header {
+  margin-bottom: 2rem;
+}
+
+.back-link {
+  display: inline-block;
+  color: var(--lds-green-30);
+  text-decoration: none;
+  margin-bottom: 1rem;
+  font-weight: 600;
+  transition: color 0.2s ease;
+}
+
+.back-link:hover {
+  color: var(--lds-green-20);
+}
+
+.form-header h2 {
+  color: var(--lds-text-primary);
+  font-size: 2rem;
+  font-family: var(--font-serif);
+}
+
+.temple-form {
+  background: var(--lds-background);
+  padding: 2rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--lds-neutral-20);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+.form-group label {
+  display: block;
+  color: var(--lds-text-primary);
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.form-group input,
+.form-group select {
+  width: 100%;
+  padding: 0.75rem;
+  border: 2px solid var(--lds-neutral-20);
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  transition: border-color 0.2s;
+  background-color: var(--lds-background);
+}
+
+.form-group input:focus,
+.form-group select:focus {
+  outline: none;
+  border-color: var(--lds-green-30);
+}
+
+.form-group input.invalid,
+.form-group select.invalid {
+  border-color: var(--lds-red-30);
+}
+
+.error-text {
+  color: var(--lds-red-30);
+  font-size: 0.875rem;
+  margin-top: 0.25rem;
+}
+
+.help-text {
+  color: var(--lds-text-secondary);
+  font-size: 0.875rem;
+  display: block;
+  margin-top: 0.25rem;
+}
+
+.error-message {
+  background-color: var(--lds-neutral-10);
+  color: var(--lds-red-30);
+  padding: 1rem;
+  border-radius: 0.25rem;
+  margin-bottom: 1.5rem;
+  border-left: 4px solid var(--lds-red-30);
+}
+
+.form-actions {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.btn {
+  padding: 0.75rem 2rem;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s;
+  text-decoration: none;
+  text-align: center;
+}
+
+.btn-primary {
+  background-color: var(--lds-green-30);
+  color: white;
+}
+
+.btn-primary:hover:not(:disabled) {
+  background-color: var(--lds-green-20);
+  transform: translateY(-1px);
+}
+
+.btn-primary:disabled {
+  background-color: var(--lds-gray-10);
+  cursor: not-allowed;
+}
+
+.btn-secondary {
+  background-color: var(--lds-gray-20);
+  color: white;
+}
+
+.btn-secondary:hover {
+  background-color: var(--lds-gray-40);
+}

@@ -1,0 +1,60 @@
+<div class="temple-list-container">
+  <div class="header-section">
+    <h2>Temples of The Church of Jesus Christ of Latter-day Saints</h2>
+    <p class="subtitle">Explore dedicated, announced, and under construction temples worldwide</p>
+  </div>
+
+  <div class="filter-section">
+    <button class="filter-btn" [class.active]="selectedStatus === 'ALL'" (click)="filterByStatus('ALL')">
+      All Temples
+    </button>
+    <button class="filter-btn" [class.active]="selectedStatus === 'OPERATING'" (click)="filterByStatus('OPERATING')">
+      Operating
+    </button>
+    <button class="filter-btn" [class.active]="selectedStatus === 'RENOVATION'" (click)="filterByStatus('RENOVATION')">
+      Under Renovation
+    </button>
+    <button class="filter-btn" [class.active]="selectedStatus === 'CONSTRUCTION'"
+      (click)="filterByStatus('CONSTRUCTION')">
+      Under Construction
+    </button>
+    <button class="filter-btn" [class.active]="selectedStatus === 'ANNOUNCED'" (click)="filterByStatus('ANNOUNCED')">
+      Announced
+    </button>
+  </div>
+
+  <div *ngIf="loading" class="loading">
+    <p>Loading temples...</p>
+  </div>
+
+  <div *ngIf="error" class="error">
+    <p>{{ error }}</p>
+  </div>
+
+  <div class="temples-grid" *ngIf="!loading && !error">
+    <div class="temple-card" *ngFor="let temple of filteredTemples">
+      <div class="temple-image">
+        <img [src]="temple.imageUrl" [alt]="temple.name" />
+        <span class="status-badge" [ngClass]="getStatusClass(temple.status)">
+          {{ getStatusLabel(temple.status) }}
+        </span>
+      </div>
+      <div class="temple-content">
+        <h3>{{ temple.name }}</h3>
+        <p class="location">{{ temple.location }}</p>
+        <p class="date" *ngIf="temple.dedicatedDate">
+          <strong>Dedicated:</strong> {{ temple.dedicatedDate }}
+        </p>
+        <div class="temple-actions">
+          <a [routerLink]="['/temple', temple._id]" class="btn btn-view">View Details</a>
+          <a [routerLink]="['/edit', temple._id]" class="btn btn-edit">Edit</a>
+          <button (click)="deleteTemple(temple._id)" class="btn btn-delete">Delete</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div *ngIf="!loading && filteredTemples.length === 0" class="no-results">
+    <p>No temples found for the selected filter.</p>
+  </div>
+</div>

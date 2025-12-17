@@ -1,0 +1,64 @@
+<div class="form-container">
+  <div class="form-header">
+    <a routerLink="/" class="back-link">← Back to All Temples</a>
+    <h2>{{ isEditMode ? 'Edit Temple' : 'Add New Temple' }}</h2>
+  </div>
+
+  <div *ngIf="error" class="error-message">
+    {{ error }}
+  </div>
+
+  <form [formGroup]="templeForm" (ngSubmit)="onSubmit()" class="temple-form">
+    <div class="form-group">
+      <label for="name">Temple Name *</label>
+      <input type="text" id="name" formControlName="name" [class.invalid]="isFieldInvalid('name')"
+        placeholder="Enter temple name">
+      <div class="error-text" *ngIf="isFieldInvalid('name')">
+        {{ getErrorMessage('name') }}
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="location">Location *</label>
+      <input type="text" id="location" formControlName="location" [class.invalid]="isFieldInvalid('location')"
+        placeholder="City, State/Region, Country">
+      <div class="error-text" *ngIf="isFieldInvalid('location')">
+        {{ getErrorMessage('location') }}
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="status">Status *</label>
+      <select id="status" formControlName="status" [class.invalid]="isFieldInvalid('status')">
+        <option *ngFor="let status of statuses" [value]="status.value">
+          {{ status.label }}
+        </option>
+      </select>
+      <div class="error-text" *ngIf="isFieldInvalid('status')">
+        {{ getErrorMessage('status') }}
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="dedicatedDate">Dedicated Date</label>
+      <input type="text" id="dedicatedDate" formControlName="dedicatedDate" placeholder="e.g., January 1, 2000">
+      <small class="help-text">Leave empty if not yet dedicated</small>
+    </div>
+
+    <div class="form-group">
+      <label for="imageUrl">Image URL *</label>
+      <input type="url" id="imageUrl" formControlName="imageUrl" [class.invalid]="isFieldInvalid('imageUrl')"
+        placeholder="https://example.com/temple-image.jpg">
+      <div class="error-text" *ngIf="isFieldInvalid('imageUrl')">
+        {{ getErrorMessage('imageUrl') }}
+      </div>
+    </div>
+
+    <div class="form-actions">
+      <button type="submit" class="btn btn-primary" [disabled]="loading">
+        {{ loading ? 'Saving...' : (isEditMode ? 'Update Temple' : 'Create Temple') }}
+      </button>
+      <a routerLink="/" class="btn btn-secondary">Cancel</a>
+    </div>
+  </form>
+</div>

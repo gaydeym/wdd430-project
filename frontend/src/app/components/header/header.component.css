@@ -1,0 +1,63 @@
+.header {
+  background-color: var(--lds-background);
+  border-bottom: 3px solid var(--lds-green-30);
+  padding: 1.5rem 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo a {
+  color: var(--lds-text-primary);
+  text-decoration: none;
+  font-size: 1.8rem;
+  font-weight: 700;
+  font-family: var(--font-serif);
+  transition: color 0.2s ease;
+}
+
+.logo a:hover {
+  color: var(--lds-green-30);
+}
+
+.nav {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.nav-link {
+  color: var(--lds-text-primary);
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  transition: all 0.2s ease;
+  font-weight: 500;
+}
+
+.nav-link:hover {
+  background-color: var(--lds-neutral-10);
+  color: var(--lds-green-30);
+}
+
+.btn-primary {
+  background-color: var(--lds-green-30);
+  color: white;
+  font-weight: 600;
+  border: none;
+  padding: 0.625rem 1.25rem;
+  border-radius: 0.25rem;
+}
+
+.btn-primary:hover {
+  background-color: var(--lds-green-20);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(49, 141, 67, 0.2);
+}

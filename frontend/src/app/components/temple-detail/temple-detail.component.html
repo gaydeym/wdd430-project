@@ -1,0 +1,48 @@
+<div class="temple-detail-container">
+  <div *ngIf="loading" class="loading">
+    <p>Loading temple details...</p>
+  </div>
+
+  <div *ngIf="error" class="error">
+    <p>{{ error }}</p>
+    <a routerLink="/" class="btn btn-primary">Back to Temples</a>
+  </div>
+
+  <div *ngIf="temple && !loading" class="temple-detail">
+    <div class="detail-header">
+      <a routerLink="/" class="back-link">← Back to All Temples</a>
+      <h2>{{ temple.name }}</h2>
+      <span class="status-badge" [ngClass]="getStatusClass(temple.status)">
+        {{ getStatusLabel(temple.status) }}
+      </span>
+    </div>
+
+    <div class="detail-content">
+      <div class="temple-image-large">
+        <img [src]="temple.imageUrl" [alt]="temple.name" />
+      </div>
+
+      <div class="temple-info">
+        <div class="info-item">
+          <h3>Location</h3>
+          <p>{{ temple.location }}</p>
+        </div>
+
+        <div class="info-item">
+          <h3>Status</h3>
+          <p>{{ getStatusLabel(temple.status) }}</p>
+        </div>
+
+        <div class="info-item" *ngIf="temple.dedicatedDate">
+          <h3>Dedicated Date</h3>
+          <p>{{ temple.dedicatedDate }}</p>
+        </div>
+
+        <div class="action-buttons">
+          <a [routerLink]="['/edit', temple._id]" class="btn btn-edit">Edit Temple</a>
+          <button (click)="deleteTemple()" class="btn btn-delete">Delete Temple</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

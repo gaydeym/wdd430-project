@@ -1,0 +1,79 @@
+:root {
+  /* Primary Colors */
+  --lds-red-10: #FFB81C;
+  --lds-green-10: #BED21E;
+  --lds-yellow-10: #FFD61A;
+  --lds-blue-10: #7DE3F4;
+  
+  /* Accent Colors */
+  --lds-red-20: #BD0057;
+  --lds-green-20: #6DB344;
+  --lds-yellow-20: #F68D2E;
+  --lds-red-30: #8F124A;
+  --lds-green-30: #318D43;
+  --lds-yellow-30: #D45311;
+  --lds-purple-30: #592569;
+  
+  /* Neutrals */
+  --lds-neutral-10: #E9E6E0;
+  --lds-neutral-20: #D5CFBE;
+  --lds-neutral-30: #C6BFAD;
+  --lds-neutral-40: #B3A18D;
+  
+  /* Grays */
+  --lds-gray-10: #A9ADAD;
+  --lds-gray-20: #878A8C;
+  --lds-gray-30: #D0D3D3;
+  --lds-gray-40: #53575B;
+  
+  /* Semantic Colors */
+  --lds-text-primary: #53575B;
+  --lds-text-secondary: #878A8C;
+  --lds-background: #FFFFFF;
+  --lds-background-alt: #E9E6E0;
+  
+  /* Typography */
+  --font-serif: Georgia, 'Times New Roman', Times, serif;
+  --font-sans: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--lds-background);
+  color: var(--lds-text-primary);
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-serif);
+  line-height: 1.2;
+  color: var(--lds-text-primary);
+  font-weight: 600;
+}
+
+a {
+  color: var(--lds-green-30);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--lds-green-20);
+}
+
+button {
+  font-family: var(--font-sans);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}

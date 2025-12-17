@@ -1,0 +1,2676 @@
+[
+    {
+        "name": "Aba Nigeria Temple",
+        "location": "Aba, Abia, Nigeria",
+        "status": "OPERATING",
+        "dedicatedDate": "August 7, 2005",
+        "imageUrl": "../../assets/images/aba_nigeria_temple_lds.jpeg"
+    },
+    {
+        "name": "Abidjan Ivory Coast Temple",
+        "location": "Abidjan, Côte d'Ivoire",
+        "status": "OPERATING",
+        "dedicatedDate": "May 25, 2025",
+        "imageUrl": "../../assets/images/abidjan_ivory_coast_temple_exterior.jpeg"
+    },
+    {
+        "name": "Abuja Nigeria Temple",
+        "location": "Nigeria",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Accra Ghana Temple",
+        "location": "Accra, Greater Accra, Ghana",
+        "status": "OPERATING",
+        "dedicatedDate": "January 11, 2004",
+        "imageUrl": "../../assets/images/accra_ghana_temple_lds.jpeg"
+    },
+    {
+        "name": "Adelaide Australia Temple",
+        "location": "Marden, South Australia, Australia",
+        "status": "OPERATING",
+        "dedicatedDate": "June 15, 2000",
+        "imageUrl": "../../assets/images/adelaide_australia_temple_lds.jpeg"
+    },
+    {
+        "name": "Alabang Philippines Temple",
+        "location": "Philippines",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/alabang_philippines_temple_exterior.jpeg"
+    },
+    {
+        "name": "Albuquerque New Mexico Temple",
+        "location": "Albuquerque, New Mexico, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "March 5, 2000",
+        "imageUrl": "../../assets/images/abuquerque_temple_lds.jpeg"
+    },
+    {
+        "name": "Anchorage Alaska Temple",
+        "location": "Anchorage, Alaska, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "January 9, 1999",
+        "imageUrl": "../../assets/images/anchorage_alaska_temple_lds.jpeg"
+    },
+    {
+        "name": "Antananarivo Madagascar Temple",
+        "location": "Madagascar",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Antofagasta Chile Temple",
+        "location": "Antofagasta, Chile",
+        "status": "OPERATING",
+        "dedicatedDate": "June 15, 2025",
+        "imageUrl": "../../assets/images/antofagasta_chile_temple_exterior_rendering.jpeg"
+    },
+    {
+        "name": "Apia Samoa Temple",
+        "location": "Apia, Pesega, Samoa",
+        "status": "OPERATING",
+        "dedicatedDate": "August 5, 1983",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Arequipa Peru Temple",
+        "location": "Arequipa, Peru",
+        "status": "OPERATING",
+        "dedicatedDate": "December 15, 2019",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Asunción Paraguay Temple",
+        "location": "Asunción, Alto Paraguay, Paraguay",
+        "status": "OPERATING",
+        "dedicatedDate": "May 19, 2002",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Atlanta Georgia Temple",
+        "location": "Sandy Springs, Georgia, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "June 1, 1983",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Auckland New Zealand Temple",
+        "location": "Auckland, New Zealand",
+        "status": "OPERATING",
+        "dedicatedDate": "April 13, 2025",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Austin Texas Temple",
+        "location": "Texas, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Bacolod Philippines Temple",
+        "location": "Lanao Del Norte, Philippines",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Bahía Blanca Argentina Temple",
+        "location": "Argentina",
+        "status": "OPERATING",
+        "dedicatedDate": "November 23, 2025",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Bakersfield California Temple",
+        "location": "California, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Bangkok Thailand Temple",
+        "location": "Bangkok, Thailand",
+        "status": "OPERATING",
+        "dedicatedDate": "October 22, 2023",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Barcelona Spain Temple",
+        "location": "Spain",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Barranquilla Colombia Temple",
+        "location": "Barranquilla, Colombia",
+        "status": "OPERATING",
+        "dedicatedDate": "December 9, 2018",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Baton Rouge Louisiana Temple",
+        "location": "Baton Rouge, Louisiana, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "July 16, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Beira Mozambique Temple",
+        "location": "Mozambique",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Belém Brazil Temple",
+        "location": "Belém, Para, Brazil",
+        "status": "OPERATING",
+        "dedicatedDate": "November 20, 2022",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Belo Horizonte Brazil Temple",
+        "location": "Brazil",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Bengaluru India Temple",
+        "location": "Bangalore, India",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Benin City Nigeria Temple",
+        "location": "Nigeria",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Bentonville Arkansas Temple",
+        "location": "Bentonville, Arkansas, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "September 17, 2023",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Bern Switzerland Temple",
+        "location": "Zollikofen, Bern, Switzerland",
+        "status": "OPERATING",
+        "dedicatedDate": "September 11, 1955",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Billings Montana Temple",
+        "location": "Billings, Montana, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "November 20, 1999",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Birmingham Alabama Temple",
+        "location": "Gardendale, Alabama, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "September 3, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Birmingham England Temple",
+        "location": "United Kingdom",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Bismarck North Dakota Temple",
+        "location": "Bismarck, North Dakota, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "September 19, 1999",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Bogotá Colombia Temple",
+        "location": "Bogotá, Distrito Capital, Colombia",
+        "status": "OPERATING",
+        "dedicatedDate": "April 24, 1999",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Boise Idaho Temple",
+        "location": "Boise, Idaho, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "May 25, 1984",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Boston Massachusetts Temple",
+        "location": "Belmont, Massachusetts, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "October 1, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Bountiful Utah Temple",
+        "location": "Bountiful, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "January 8, 1995",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Brasília Brazil Temple",
+        "location": "Brasilia, Brazil",
+        "status": "OPERATING",
+        "dedicatedDate": "September 17, 2023",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Brazzaville Republic of the Congo Temple",
+        "location": "Republic of the Congo",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Brigham City Utah Temple",
+        "location": "Brigham City, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "September 23, 2012",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Brisbane Australia South Temple",
+        "location": "Australia",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Brisbane Australia Temple",
+        "location": "Kangaroo Point, Queensland, Australia",
+        "status": "OPERATING",
+        "dedicatedDate": "June 15, 2003",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Brussels Belgium Temple",
+        "location": "Belgium",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Budapest Hungary Temple",
+        "location": "Hungary",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Buenos Aires Argentina Temple",
+        "location": "Ciudad Evita, Buenos Aires, Argentina",
+        "status": "OPERATING",
+        "dedicatedDate": "January 17, 1986",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Buenos Aires City Center Argentina Temple",
+        "location": "Argentina",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Burley Idaho Temple",
+        "location": "Burley, Idaho, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Busan Korea Temple",
+        "location": "South Korea",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Cagayan de Oro Philippines Temple",
+        "location": "Philippines",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Calabar Nigeria Temple",
+        "location": "Nigeria",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Caldwell Idaho Temple",
+        "location": "Idaho, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Calgary Alberta Temple",
+        "location": "Calgary, Alberta, Canada",
+        "status": "OPERATING",
+        "dedicatedDate": "October 28, 2012",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Cali Colombia Temple",
+        "location": "Colombia",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Campinas Brazil Temple",
+        "location": "Campinas, Sao Paulo, Brazil",
+        "status": "OPERATING",
+        "dedicatedDate": "May 17, 2002",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Campo Grande Brazil Temple",
+        "location": "Brazil",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Cancún Mexico Temple",
+        "location": "Mexico",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Cape Coast Ghana Temple",
+        "location": "Ghana",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Cape Town South Africa Temple",
+        "location": "South Africa",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Caracas Venezuela Temple",
+        "location": "Caracas, Dependencias Federales, Venezuela",
+        "status": "OPERATING",
+        "dedicatedDate": "August 20, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Cardston Alberta Temple",
+        "location": "Cardston, Alberta, Canada",
+        "status": "OPERATING",
+        "dedicatedDate": "August 26, 1923",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Casper Wyoming Temple",
+        "location": "Casper, Wyoming, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "November 24, 2024",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Cebu City Philippines Temple",
+        "location": "Cebu City, Cebu, Philippines",
+        "status": "OPERATING",
+        "dedicatedDate": "June 13, 2010",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Cedar City Utah Temple",
+        "location": "Cedar City, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "December 10, 2017",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Charlotte North Carolina Temple",
+        "location": "North Carolina, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Chicago Illinois Temple",
+        "location": "Glenview, Illinois, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "August 9, 1985",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Chiclayo Peru Temple",
+        "location": "Peru",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Chihuahua Mexico Temple",
+        "location": "Mexico",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Chorrillos Peru Temple",
+        "location": "Peru",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Cincinnati Ohio Temple",
+        "location": "Ohio, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Ciudad Juárez Mexico Temple",
+        "location": "Ciudad Juárez, Chihuahua, Mexico",
+        "status": "OPERATING",
+        "dedicatedDate": "February 26, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Cleveland Ohio Temple",
+        "location": "Ohio, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Cobán Guatemala Temple",
+        "location": "Coban, Guatemala",
+        "status": "OPERATING",
+        "dedicatedDate": "June 9, 2024",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Cochabamba Bolivia Temple",
+        "location": "Alto Queru Queru, Cochabamba, Bolivia",
+        "status": "OPERATING",
+        "dedicatedDate": "April 30, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Cody Wyoming Temple",
+        "location": "Wyoming, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Coeur d'Alene Idaho Temple",
+        "location": "Idaho, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Colonia Juárez Chihuahua Mexico Temple",
+        "location": "Colonia Juárez, Chihuahua, Mexico",
+        "status": "OPERATING",
+        "dedicatedDate": "March 6, 1999",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Colorado Springs Colorado Temple",
+        "location": "Colorado, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Columbia River Washington Temple",
+        "location": "Richland, Washington, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "November 18, 2001",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Columbia South Carolina Temple",
+        "location": "Hopkins, South Carolina, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "October 16, 1999",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Columbus Ohio Temple",
+        "location": "Columbus, Ohio, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "September 4, 1999",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Concepción Chile Temple",
+        "location": "Concepcion, Chile",
+        "status": "OPERATING",
+        "dedicatedDate": "October 28, 2018",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Copenhagen Denmark Temple",
+        "location": "Frederiksberg, Hovedstaden, Denmark",
+        "status": "OPERATING",
+        "dedicatedDate": "May 23, 2004",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Córdoba Argentina Temple",
+        "location": "Córdoba, Argentina",
+        "status": "OPERATING",
+        "dedicatedDate": "May 17, 2015",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Cuernavaca Mexico Temple",
+        "location": "Mexico",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Culiacán Mexico Temple",
+        "location": "Mexico",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Curitiba Brazil Temple",
+        "location": "Curitiba, Parana, Brazil",
+        "status": "OPERATING",
+        "dedicatedDate": "June 1, 2008",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Cusco Peru Temple",
+        "location": "Peru",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Dallas Texas Temple",
+        "location": "Dallas, Texas, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "October 19, 1984",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Davao Philippines Temple",
+        "location": "Davao, Philippines",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Denver Colorado Temple",
+        "location": "Centennial, Colorado, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "October 24, 1986",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Des Moines Iowa Temple",
+        "location": "Iowa, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Deseret Peak Utah Temple",
+        "location": "Tooele, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "November 10, 2024",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Detroit Michigan Temple",
+        "location": "Bloomfield Hills, Michigan, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "October 23, 1999",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Draper Utah Temple",
+        "location": "Draper, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "March 20, 2009",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Dubai United Arab Emirates Temple",
+        "location": "United Arab Emirates",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Dublin Ireland Temple",
+        "location": "Ireland",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Durban South Africa Temple",
+        "location": "Durban, South Africa",
+        "status": "OPERATING",
+        "dedicatedDate": "February 16, 2020",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Edinburgh Scotland Temple",
+        "location": "United Kingdom",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Edmonton Alberta Temple",
+        "location": "Edmonton, Alberta, Canada",
+        "status": "OPERATING",
+        "dedicatedDate": "December 11, 1999",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Eket Nigeria Temple",
+        "location": "Nigeria",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "El Paso Texas Temple",
+        "location": "Texas, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Elko Nevada Temple",
+        "location": "Nevada, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "October 12, 2025",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Ephraim Utah Temple",
+        "location": "Utah, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Fairbanks Alaska Temple",
+        "location": "Alaska, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Fairview Texas Temple",
+        "location": "Texas, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Farmington New Mexico Temple",
+        "location": "New Mexico, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "August 17, 2025",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Feather River California Temple",
+        "location": "Yuba City, California, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "October 8, 2023",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Flagstaff Arizona Temple",
+        "location": "Arizona, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Florianopolis Brazil Temple",
+        "location": "Brazil",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Fort Collins Colorado Temple",
+        "location": "Fort Collins, Colorado, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "October 16, 2016",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Fort Lauderdale Florida Temple",
+        "location": "Davie, Florida, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "May 4, 2014",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Fort Worth Texas Temple",
+        "location": "Texas, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Fortaleza Brazil Temple",
+        "location": "Fortaleza, Ceara, Brazil",
+        "status": "OPERATING",
+        "dedicatedDate": "June 2, 2019",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Frankfurt Germany Temple",
+        "location": "Friedrichsdorf, Hessen, Germany",
+        "status": "OPERATING",
+        "dedicatedDate": "August 28, 1987",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Freetown Sierra Leone Temple",
+        "location": "Sierra Leone",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Freiberg Germany Temple",
+        "location": "Freiberg, Sachsen, Germany",
+        "status": "OPERATING",
+        "dedicatedDate": "June 29, 1985",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Fresno California Temple",
+        "location": "Fresno, California, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "April 9, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Fukuoka Japan Temple",
+        "location": "Fukuoka-shi, Fukuoka, Japan",
+        "status": "OPERATING",
+        "dedicatedDate": "June 11, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Gilbert Arizona Temple",
+        "location": "Gilbert, Arizona, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "March 2, 2014",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Goiânia Brazil Temple",
+        "location": "Brazil",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Grand Junction Colorado Temple",
+        "location": "Grand Junction, Colorado, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "October 19, 2025",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Grand Rapids Michigan Temple",
+        "location": "Michigan, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Greenville South Carolina Temple",
+        "location": "South Carolina, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Guadalajara Mexico Temple",
+        "location": "Zapopan, Jalisco, Mexico",
+        "status": "OPERATING",
+        "dedicatedDate": "April 29, 2001",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Guatemala City Guatemala Temple",
+        "location": "Guatemala City, Guatemala, Guatemala",
+        "status": "OPERATING",
+        "dedicatedDate": "December 14, 1984",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Guayaquil Ecuador Temple",
+        "location": "Guayaquil, Guayas, Ecuador",
+        "status": "OPERATING",
+        "dedicatedDate": "August 1, 1999",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Halifax Nova Scotia Temple",
+        "location": "Dartmouth, Nova Scotia, Canada",
+        "status": "OPERATING",
+        "dedicatedDate": "November 14, 1999",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Hamburg Germany Temple",
+        "location": "Germany",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Hamilton New Zealand Temple",
+        "location": "Hamilton, Auckland, New Zealand",
+        "status": "OPERATING",
+        "dedicatedDate": "April 20, 1958",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Harare Zimbabwe Temple",
+        "location": "Harare, Zimbabwe",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Harrisburg Pennsylvania Temple",
+        "location": "Pennsylvania, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Hartford Connecticut Temple",
+        "location": "Farmington, Connecticut, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "November 20, 2016",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Heber Valley Utah Temple",
+        "location": "Utah, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Helena Montana Temple",
+        "location": "Helena, Montana, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "June 18, 2023",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Helsinki Finland Temple",
+        "location": "Espoo, Uusimaa, Finland",
+        "status": "OPERATING",
+        "dedicatedDate": "October 22, 2006",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Hermosillo Sonora Mexico Temple",
+        "location": "Hermosillo, Sonora, Mexico",
+        "status": "OPERATING",
+        "dedicatedDate": "February 27, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Hong Kong China Temple",
+        "location": "Kowloon Tong, Kowloon City, Hong Kong",
+        "status": "OPERATING",
+        "dedicatedDate": "May 26, 1996",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Honolulu Hawaii Temple",
+        "location": "Hawaii, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Houston Texas South Temple",
+        "location": "Texas, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Houston Texas Temple",
+        "location": "Spring, Texas, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "August 26, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Huancayo Peru Temple",
+        "location": "Peru",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Huehuetenango Guatemala Temple",
+        "location": "Guatemala",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Huntsville Alabama Temple",
+        "location": "Alabama, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Idaho Falls Idaho Temple",
+        "location": "Idaho Falls, Idaho, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "September 23, 1945",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Iloilo Philippines Temple",
+        "location": "Philippines",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Indianapolis Indiana Temple",
+        "location": "Carmel, Indiana, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "August 23, 2015",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Iquitos Peru Temple",
+        "location": "Peru",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Jacksonville Florida Temple",
+        "location": "Florida, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Jakarta Indonesia Temple",
+        "location": "Indonesia",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "João Pessoa Brazil Temple",
+        "location": "Brazil",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Johannesburg South Africa Temple",
+        "location": "Johannesburg, Gauteng, South Africa",
+        "status": "OPERATING",
+        "dedicatedDate": "August 24, 1985",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Jordan River Utah Temple",
+        "location": "South Jordan, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "November 16, 1981",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Juchitán de Zaragoza Mexico Temple",
+        "location": "Mexico",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Kahului Hawaii Temple",
+        "location": "Hawaii, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Kampala Uganda Temple",
+        "location": "Uganda",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Kananga Democratic Republic of the Congo Temple",
+        "location": "Democratic Republic of the Congo",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Kansas City Missouri Temple",
+        "location": "Kansas City, Missouri, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "May 6, 2012",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Kaohsiung Taiwan Temple",
+        "location": "Taiwan",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Kinshasa Democratic Republic of the Congo Temple",
+        "location": "Kinshasa, Democratic Republic of the Congo",
+        "status": "OPERATING",
+        "dedicatedDate": "April 14, 2019",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Knoxville Tennessee Temple",
+        "location": "Tennessee, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Kona Hawaii Temple",
+        "location": "Kailua-Kona, Hawaii, United States",
+        "status": "RENOVATION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Kumasi Ghana Temple",
+        "location": "Ghana",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Kyiv Ukraine Temple",
+        "location": "Kyevo-Sviatoshyns'ky Rayon, Kyiv, Ukraine",
+        "status": "OPERATING",
+        "dedicatedDate": "August 29, 2010",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "La Paz Bolivia Temple",
+        "location": "Bolivia",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Lagos Nigeria Temple",
+        "location": "Nigeria",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Laie Hawaii Temple",
+        "location": "Laie, Hawaii, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "November 27, 1919",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Laoag Philippines Temple",
+        "location": "Philippines",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Las Vegas Nevada Temple",
+        "location": "Las Vegas, Nevada, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "December 16, 1989",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Layton Utah Temple",
+        "location": "Layton, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "June 16, 2024",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Lehi Utah Temple",
+        "location": "Utah, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Lethbridge Alberta Temple",
+        "location": "Alberta, Canada",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Lima Peru Los Olivos Temple",
+        "location": "Los Olivos, Lima, Peru",
+        "status": "OPERATING",
+        "dedicatedDate": "January 14, 2024",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Lima Peru Temple",
+        "location": "La Molina, Lima, Peru",
+        "status": "OPERATING",
+        "dedicatedDate": "January 10, 1986",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Lindon Utah Temple",
+        "location": "Lindon, Utah, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Lisbon Portugal Temple",
+        "location": "Lisbon, Portugal",
+        "status": "OPERATING",
+        "dedicatedDate": "September 15, 2019",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Liverpool Australia Temple",
+        "location": "Australia",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Logan Utah Temple",
+        "location": "Logan, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "May 17, 1884",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "London England Temple",
+        "location": "Newchapel, Surrey, England",
+        "status": "OPERATING",
+        "dedicatedDate": "September 7, 1958",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Londrina Brazil Temple",
+        "location": "Brazil",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Lone Mountain Nevada Temple",
+        "location": "Nevada, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Los Angeles California Temple",
+        "location": "Los Angeles, California, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "March 11, 1956",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Louisville Kentucky Temple",
+        "location": "Crestwood, Kentucky, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "March 19, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Luanda Angola Temple",
+        "location": "Angola",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Lubbock Texas Temple",
+        "location": "Lubbock, Texas, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "April 21, 2002",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Lubumbashi Democratic Republic of the Congo Temple",
+        "location": "Democratic Republic of the Congo",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Maceió Brazil Temple",
+        "location": "Brazil",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Madrid Spain Temple",
+        "location": "Madrid, Madrid, Spain",
+        "status": "OPERATING",
+        "dedicatedDate": "March 19, 1999",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Managua Nicaragua Temple",
+        "location": "Nicaragua",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Manaus Brazil Temple",
+        "location": "Manaus, Amazonas, Brazil",
+        "status": "OPERATING",
+        "dedicatedDate": "June 10, 2012",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Manhattan New York Temple",
+        "location": "New York, New York, United States",
+        "status": "RENOVATION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Manila Philippines Temple",
+        "location": "Quezon City, Metro Manila, Philippines",
+        "status": "OPERATING",
+        "dedicatedDate": "September 25, 1984",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Manti Utah Temple",
+        "location": "Manti, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "May 21, 1888",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Maputo Mozambique Temple",
+        "location": "Mozambique",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Maracaibo Venezuela Temple",
+        "location": "Venezuela",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Mbuji-Mayi Democratic Republic of the Congo Temple",
+        "location": "Democratic Republic of the Congo",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "McAllen Texas Temple",
+        "location": "McAllen, Texas, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "October 8, 2023",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Medellín Colombia Temple",
+        "location": "Colombia",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Medford Oregon Temple",
+        "location": "Central Point, Oregon, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "April 16, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Melbourne Australia Temple",
+        "location": "Wantirna South, Victoria, Australia",
+        "status": "OPERATING",
+        "dedicatedDate": "June 16, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Memphis Tennessee Temple",
+        "location": "Bartlett, Tennessee, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "April 23, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Mendoza Argentina Temple",
+        "location": "Mendoza, Argentina",
+        "status": "OPERATING",
+        "dedicatedDate": "September 22, 2024",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Mérida Mexico Temple",
+        "location": "Mérida, Yucatan, Mexico",
+        "status": "OPERATING",
+        "dedicatedDate": "July 8, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Meridian Idaho Temple",
+        "location": "Meridian, Idaho, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "November 19, 2017",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Mesa Arizona Temple",
+        "location": "Mesa, Arizona, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "October 23, 1927",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Mexico City Benemérito Mexico Temple",
+        "location": "Mexico",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Mexico City Mexico Temple",
+        "location": "México, Distrito Federal, Mexico",
+        "status": "OPERATING",
+        "dedicatedDate": "December 2, 1983",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Milan Italy Temple",
+        "location": "Italy",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Milwaukee Wisconsin Temple",
+        "location": "Wisconsin, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Miraflores Guatemala City Guatemala Temple",
+        "location": "Guatemala",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Missoula Montana Temple",
+        "location": "Montana, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Modesto California Temple",
+        "location": "California, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Monrovia Liberia Temple",
+        "location": "Liberia",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Monterrey Mexico Temple",
+        "location": "Monterrey, Nuevo Leon, Mexico",
+        "status": "OPERATING",
+        "dedicatedDate": "April 28, 2002",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Montevideo Uruguay Temple",
+        "location": "Carrasco, Montevideo, Uruguay",
+        "status": "OPERATING",
+        "dedicatedDate": "March 18, 2001",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Monticello Utah Temple",
+        "location": "Monticello, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "July 26, 1998",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Montpelier Idaho Temple",
+        "location": "Idaho, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Montreal Quebec Temple",
+        "location": "Longueuil, Quebec, Canada",
+        "status": "OPERATING",
+        "dedicatedDate": "June 4, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Moses Lake Washington Temple",
+        "location": "Moses Lake, Washington, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "September 17, 2023",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Mount Timpanogos Utah Temple",
+        "location": "American Fork, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "October 13, 1996",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Naga Philippines Temple",
+        "location": "Philippines",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Nairobi Kenya Temple",
+        "location": "Nairobi, Kenya",
+        "status": "OPERATING",
+        "dedicatedDate": "May 18, 2025",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Nashville Tennessee Temple",
+        "location": "Franklin, Tennessee, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "May 21, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Natal Brazil Temple",
+        "location": "Brazil",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Nauvoo Illinois Temple",
+        "location": "Nauvoo, Illinois, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "June 27, 2002",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Neiafu Tonga Temple",
+        "location": "Neiafu Vava'u, Tonga",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Newport Beach California Temple",
+        "location": "Newport Beach, California, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "August 28, 2005",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Norfolk Virginia Temple",
+        "location": "Virginia, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Nouméa New Caledonia Temple",
+        "location": "New Caledonia",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Nuku'alofa Tonga Temple",
+        "location": "Liahona, Tongatapu, Tonga",
+        "status": "OPERATING",
+        "dedicatedDate": "August 9, 1983",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Oakland California Temple",
+        "location": "Oakland, California, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "November 17, 1964",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Oaxaca Mexico Temple",
+        "location": "Oaxaca, Oaxaca, Mexico",
+        "status": "OPERATING",
+        "dedicatedDate": "March 11, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Ogden Utah Temple",
+        "location": "Ogden, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "January 18, 1972",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Okinawa Japan Temple",
+        "location": "Okinawa, Japan",
+        "status": "OPERATING",
+        "dedicatedDate": "November 12, 2023",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Oklahoma City Oklahoma Temple",
+        "location": "Yukon, Oklahoma, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "July 30, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Oquirrh Mountain Utah Temple",
+        "location": "South Jordan, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "August 21, 2009",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Orem Utah Temple",
+        "location": "Orem, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "January 21, 2024",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Orlando Florida Temple",
+        "location": "Windermere, Florida, United States",
+        "status": "RENOVATION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Osaka Japan Temple",
+        "location": "Japan",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Oslo Norway Temple",
+        "location": "Norway",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Pachuca Mexico Temple",
+        "location": "Mexico",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Pago Pago American Samoa Temple",
+        "location": "Tafuna, Western District, American Samoa",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Palmyra New York Temple",
+        "location": "Palmyra, New York, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "April 6, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Panama City Panama Temple",
+        "location": "Corozal, Ancon, Panamá, Panama",
+        "status": "OPERATING",
+        "dedicatedDate": "August 10, 2008",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Papeete Tahiti Temple",
+        "location": "Papeete, Tahiti, French Polynesia",
+        "status": "OPERATING",
+        "dedicatedDate": "October 27, 1983",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Paris France Temple",
+        "location": "Le Chesnay, France",
+        "status": "OPERATING",
+        "dedicatedDate": "May 21, 2017",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Payson Utah Temple",
+        "location": "Payson, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "June 7, 2015",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Perth Australia Temple",
+        "location": "Yokine, Western Australia, Australia",
+        "status": "OPERATING",
+        "dedicatedDate": "May 20, 2001",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Philadelphia Pennsylvania Temple",
+        "location": "Philadelphia, Pennsylvania, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "September 18, 2016",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Phnom Penh Cambodia Temple",
+        "location": "Phnom Penh, Cambodia",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Phoenix Arizona Temple",
+        "location": "Phoenix, Arizona, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "November 16, 2014",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Pittsburgh Pennsylvania Temple",
+        "location": "Cranberry Township, Pennsylvania, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "September 15, 2024",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Piura Peru Temple",
+        "location": "Peru",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Pocatello Idaho Temple",
+        "location": "Pocatello, Idaho, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "November 7, 2021",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Port Moresby Papua New Guinea Temple",
+        "location": "Papua New Guinea",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Port Vila Vanuatu Temple",
+        "location": "Vanuatu",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Port-au-Prince Haiti Temple",
+        "location": "Port-au-Prince, Haiti",
+        "status": "OPERATING",
+        "dedicatedDate": "September 1, 2019",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Portland Oregon Temple",
+        "location": "Lake Oswego, Oregon, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "August 19, 1989",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Porto Alegre Brazil Temple",
+        "location": "Porto Alegre, Rio Grande do Sul, Brazil",
+        "status": "OPERATING",
+        "dedicatedDate": "December 17, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Porto Portugal Temple",
+        "location": "Portugal",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Praia Cape Verde Temple",
+        "location": "Praia, Cape Verde",
+        "status": "OPERATING",
+        "dedicatedDate": "June 19, 2022",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Preston England Temple",
+        "location": "Chorley, Lancashire, England",
+        "status": "OPERATING",
+        "dedicatedDate": "June 7, 1998",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Price Utah Temple",
+        "location": "Utah, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Provo City Center Temple",
+        "location": "Provo, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "March 20, 2016",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Provo Utah Rock Canyon Temple",
+        "location": "Provo, Utah, United States",
+        "status": "RENOVATION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Puebla Mexico Temple",
+        "location": "Puebla, Puebla, Mexico",
+        "status": "OPERATING",
+        "dedicatedDate": "May 19, 2024",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Puerto Montt Chile Temple",
+        "location": "Chile",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Queen Creek Arizona Temple",
+        "location": "Arizona, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Querétaro Mexico Temple",
+        "location": "Mexico",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Quetzaltenango Guatemala Temple",
+        "location": "Quetzaltenango, Quezaltenango, Guatemala",
+        "status": "OPERATING",
+        "dedicatedDate": "December 11, 2011",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Quito Ecuador Temple",
+        "location": "Quito, Ecuador",
+        "status": "OPERATING",
+        "dedicatedDate": "November 20, 2022",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Raleigh North Carolina Temple",
+        "location": "Apex, North Carolina, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "December 18, 1999",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Rapid City South Dakota Temple",
+        "location": "South Dakota, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Recife Brazil Temple",
+        "location": "Recife, Pernambuco, Brazil",
+        "status": "OPERATING",
+        "dedicatedDate": "December 15, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Red Cliffs Utah Temple",
+        "location": "St. George, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "March 24, 2024",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Redlands California Temple",
+        "location": "Redlands, California, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "September 14, 2003",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Regina Saskatchewan Temple",
+        "location": "Regina, Saskatchewan, Canada",
+        "status": "OPERATING",
+        "dedicatedDate": "November 14, 1999",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Reno Nevada Temple",
+        "location": "Reno, Nevada, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "April 23, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Retalhuleu Guatemala Temple",
+        "location": "Guatemala",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Rexburg Idaho Temple",
+        "location": "Rexburg, Idaho, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "February 10, 2008",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Reynosa Mexico Temple",
+        "location": "Mexico",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Ribeirão Prêto Brazil Temple",
+        "location": "Brazil",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Richmond Virginia Temple",
+        "location": "Glen Allen, Virginia, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "May 7, 2023",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Rio de Janeiro Brazil Temple",
+        "location": "Rio de Janeiro, Brazil",
+        "status": "OPERATING",
+        "dedicatedDate": "May 8, 2022",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Rivera Uruguay Temple",
+        "location": "Uruguay",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Roanoke Virginia Temple",
+        "location": "Virginia, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Rome Italy Temple",
+        "location": "Rome, Roma, Italy",
+        "status": "OPERATING",
+        "dedicatedDate": "March 10, 2019",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Rosario Argentina Temple",
+        "location": "Argentina",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Russia Temple",
+        "location": "Russia",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Sacramento California Temple",
+        "location": "Rancho Cordova, California, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "September 3, 2006",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Salt Lake Temple",
+        "location": "Salt Lake City, Utah, United States",
+        "status": "RENOVATION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Salta Argentina Temple",
+        "location": "Salta, Argentina",
+        "status": "OPERATING",
+        "dedicatedDate": "June 16, 2024",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Salvador Brazil Temple",
+        "location": "Salvador, Bahia, Brazil",
+        "status": "OPERATING",
+        "dedicatedDate": "October 20, 2024",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "San Antonio Texas Temple",
+        "location": "San Antonio, Texas, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "May 22, 2005",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "San Diego California Temple",
+        "location": "San Diego, California, United States",
+        "status": "RENOVATION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "San Jose California Temple",
+        "location": "California, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "San José Costa Rica Temple",
+        "location": "Belén, Heredia, Costa Rica",
+        "status": "OPERATING",
+        "dedicatedDate": "June 4, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "San Jose del Monte Philippines Temple",
+        "location": "Philippines",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "San Juan Puerto Rico Temple",
+        "location": "San Juan, Puerto Rico",
+        "status": "OPERATING",
+        "dedicatedDate": "January 15, 2023",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "San Luis Potosí Mexico Temple",
+        "location": "Mexico",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "San Pedro Sula Honduras Temple",
+        "location": "San Pedro Sula, Honduras",
+        "status": "OPERATING",
+        "dedicatedDate": "October 13, 2024",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "San Salvador El Salvador Temple",
+        "location": "Antiguo Cuscatlán, La Libertad, El Salvador",
+        "status": "OPERATING",
+        "dedicatedDate": "August 21, 2011",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Santa Ana El Salvador Temple",
+        "location": "El Salvador",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Santa Cruz Bolivia Temple",
+        "location": "Bolivia",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Santiago Chile Temple",
+        "location": "Providencia, Santiago, Chile",
+        "status": "OPERATING",
+        "dedicatedDate": "September 15, 1983",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Santiago Dominican Republic Temple",
+        "location": "Dominican Republic",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Santiago Philippines Temple",
+        "location": "Philippines",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Santiago West Chile Temple",
+        "location": "Chile",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Santo Domingo Dominican Republic Temple",
+        "location": "Santo Domingo, Distrito Nacional, Dominican Republic",
+        "status": "OPERATING",
+        "dedicatedDate": "September 17, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Santos Brazil Temple",
+        "location": "Brazil",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "São Paulo Brazil Temple",
+        "location": "São Paulo, Sao Paulo, Brazil",
+        "status": "OPERATING",
+        "dedicatedDate": "October 30, 1978",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "São Paulo East Brazil Temple",
+        "location": "Brazil",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Sapporo Japan Temple",
+        "location": "Atsubetsu-ku Sapporo, Hokkaido, Japan",
+        "status": "OPERATING",
+        "dedicatedDate": "August 21, 2016",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Saratoga Springs Utah Temple",
+        "location": "Saratoga Springs, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "August 13, 2023",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Savai'i Samoa Temple",
+        "location": "Samoa",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Seattle Washington Temple",
+        "location": "Bellevue, Washington, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "November 17, 1980",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Seoul Korea Temple",
+        "location": "Seoul, Seoul-teukbyeolsi, South Korea",
+        "status": "OPERATING",
+        "dedicatedDate": "December 14, 1985",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Shanghai People's Republic of China Temple",
+        "location": "China",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Singapore Temple",
+        "location": "Singapore",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Smithfield Utah Temple",
+        "location": "Utah, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Snowflake Arizona Temple",
+        "location": "Snowflake, Arizona, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "March 3, 2002",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Spanish Fork Utah Temple",
+        "location": "Utah, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Spokane Washington Temple",
+        "location": "Spokane, Washington, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "August 21, 1999",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Springfield Missouri Temple",
+        "location": "Missouri, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "St. George Utah Temple",
+        "location": "St. George, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "April 6, 1877",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "St. Louis Missouri Temple",
+        "location": "St. Louis, Missouri, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "June 1, 1997",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "St. Paul Minnesota Temple",
+        "location": "Oakdale, Minnesota, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "January 9, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Star Valley Wyoming Temple",
+        "location": "Afton, Wyoming, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "October 30, 2016",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Stockholm Sweden Temple",
+        "location": "Vasterhaninge, Sweden",
+        "status": "RENOVATION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Summit New Jersey Temple",
+        "location": "New Jersey, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Suva Fiji Temple",
+        "location": "Samabula, Suva, Fiji",
+        "status": "OPERATING",
+        "dedicatedDate": "June 18, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Sydney Australia Temple",
+        "location": "Carlingford, New South Wales, Australia",
+        "status": "OPERATING",
+        "dedicatedDate": "September 20, 1984",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Syracuse Utah Temple",
+        "location": "Syracuse, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "June 8, 2025",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Tacloban City Philippines Temple",
+        "location": "Philippines",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Tacoma Washington Temple",
+        "location": "Washington, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Taipei Taiwan Temple",
+        "location": "Taipei, Taipei, Taiwan",
+        "status": "OPERATING",
+        "dedicatedDate": "November 17, 1984",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Tallahassee Florida Temple",
+        "location": "Tallahassee, Florida, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "December 8, 2024",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Tampa Florida Temple",
+        "location": "Florida, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Tampico Mexico Temple",
+        "location": "Ciudad Madero, Tamaulipas, Mexico",
+        "status": "OPERATING",
+        "dedicatedDate": "May 20, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Tarawa Kiribati Temple",
+        "location": "Kiribati",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Taylorsville Utah Temple",
+        "location": "Taylorsville, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "June 2, 2024",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Tegucigalpa Honduras Temple",
+        "location": "Comayagüela, Francisco Morazán, Honduras",
+        "status": "OPERATING",
+        "dedicatedDate": "March 17, 2013",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Teresina Brazil Temple",
+        "location": "Brazil",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Teton River Idaho Temple",
+        "location": "Idaho, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "The Gila Valley Arizona Temple",
+        "location": "Central, Arizona, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "May 23, 2010",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "The Hague Netherlands Temple",
+        "location": "Zoetermeer, Zuid-Holland, Netherlands",
+        "status": "OPERATING",
+        "dedicatedDate": "September 8, 2002",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Tijuana Mexico Temple",
+        "location": "Tijuana, Baja California, Mexico",
+        "status": "OPERATING",
+        "dedicatedDate": "December 13, 2015",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Tokyo Japan Temple",
+        "location": "Minato-ku, Tokyo, Japan",
+        "status": "OPERATING",
+        "dedicatedDate": "October 27, 1980",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Toluca Mexico Temple",
+        "location": "Mexico",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Toronto Ontario Temple",
+        "location": "Brampton, Ontario, Canada",
+        "status": "OPERATING",
+        "dedicatedDate": "August 25, 1990",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Torreón Mexico Temple",
+        "location": "Mexico",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Trujillo Peru Temple",
+        "location": "Trujillo, La Libertad, Peru",
+        "status": "OPERATING",
+        "dedicatedDate": "June 21, 2015",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Tucson Arizona Temple",
+        "location": "Tucson, Arizona, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "August 13, 2017",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Tuguegarao City Philippines Temple",
+        "location": "Philippines",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Tula Mexico Temple",
+        "location": "Mexico",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Tulsa Oklahoma Temple",
+        "location": "Oklahoma, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Tuxtla Gutiérrez Mexico Temple",
+        "location": "Tuxtla Gutiérrez, Chiapas, Mexico",
+        "status": "OPERATING",
+        "dedicatedDate": "March 12, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Twin Falls Idaho Temple",
+        "location": "Twin Falls, Idaho, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "August 24, 2008",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Ulaanbaatar Mongolia Temple",
+        "location": "Mongolia",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Urdaneta Philippines Temple",
+        "location": "Urdaneta, Pangasinan, Philippines",
+        "status": "OPERATING",
+        "dedicatedDate": "April 28, 2024",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Uturoa French Polynesia Temple",
+        "location": "French Polynesia",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Uyo Nigeria Temple",
+        "location": "Nigeria",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Vancouver British Columbia Temple",
+        "location": "Langley, British Columbia, Canada",
+        "status": "OPERATING",
+        "dedicatedDate": "May 2, 2010",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Vancouver Washington Temple",
+        "location": "Washington, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Veracruz Mexico Temple",
+        "location": "Boca del Rio, Veracruz, Mexico",
+        "status": "OPERATING",
+        "dedicatedDate": "July 9, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Vernal Utah Temple",
+        "location": "Vernal, Utah, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "November 2, 1997",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Victoria British Columbia Temple",
+        "location": "Canada",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Vienna Austria Temple",
+        "location": "Austria",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Villahermosa Mexico Temple",
+        "location": "Villahermosa, Tabasco, Mexico",
+        "status": "OPERATING",
+        "dedicatedDate": "May 21, 2000",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Viña del Mar Chile Temple",
+        "location": "Chile",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Vitória Brazil Temple",
+        "location": "Brazil",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Washington D.C. Temple",
+        "location": "Kensington, Maryland, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "November 19, 1974",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Wellington New Zealand Temple",
+        "location": "New Zealand",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "West Jordan Utah Temple",
+        "location": "Utah, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Wichita Kansas Temple",
+        "location": "Kansas, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Willamette Valley Oregon Temple",
+        "location": "Oregon, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Winchester Virginia Temple",
+        "location": "Virginia, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Winnipeg Manitoba Temple",
+        "location": "Winnipeg, Manitoba, Canada",
+        "status": "OPERATING",
+        "dedicatedDate": "October 31, 2021",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Winter Quarters Nebraska Temple",
+        "location": "Omaha, Nebraska, United States",
+        "status": "OPERATING",
+        "dedicatedDate": "April 22, 2001",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Yigo Guam Temple",
+        "location": "Yigo, Guam",
+        "status": "OPERATING",
+        "dedicatedDate": "May 22, 2022",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Yorba Linda California Temple",
+        "location": "California, United States",
+        "status": "CONSTRUCTION",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    },
+    {
+        "name": "Yuma Arizona Temple",
+        "location": "Arizona, United States",
+        "status": "ANNOUNCED",
+        "dedicatedDate": "",
+        "imageUrl": "../../assets/images/default.jpg"
+    }
+]
